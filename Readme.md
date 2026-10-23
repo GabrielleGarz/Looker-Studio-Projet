@@ -45,3 +45,5 @@ Afin d'optimiser les performances de Looker Studio, la logique de données est e
 
 1. **`vw_transactions_clean`** : Vue intermédiaire assurant le nettoyage des données brutes (normalisation des formats, filtrage et cohérence).
 2. **`vw_transactions_reporting
+
+---
