@@ -11,6 +11,7 @@ Le projet couvre toute la chaîne de valeur de la donnée, de la modélisation d
 2. Nettoyage, préparation et transformation des données via des requêtes **SQL**.
 3. Création d'une vue dédiée au reporting analytique.
 4. Restitution visuelle et dynamique dans **Looker Studio** (KPIs, filtres, graphiques d'évolution).
+Le lien direct des KPI Looker Studio est : https://datastudio.google.com/reporting/7d73a210-d2cc-4810-a6e9-1aed3b734404
 
 ---
 
@@ -44,6 +45,11 @@ Le projet s'appuie sur une architecture en étoile basée sur le projet Google C
 Afin d'optimiser les performances de Looker Studio, la logique de données est encapsulée dans BigQuery au travers de deux vues principales :
 
 1. **`vw_transactions_clean`** : Vue intermédiaire assurant le nettoyage des données brutes (normalisation des formats, filtrage et cohérence).
-2. **`vw_transactions_reporting
+2. **`vw_transactions_reporting`
 
----
+### 🏷️ Dashboard des KPI décrivant l'activité de Novatel de 2023 à 2024
+![Nom du Dashboard](Page1.png)
+![Nom du Dashboard](Page2.png)
+![Nom du Dashboard](Page3.png)
+![Nom du Dashboard](Page4.png)
+![Nom du Dashboard](Page5.png)
