@@ -1,0 +1,27 @@
+Import du csv ligne par ligne
+
+
+décocher détection automatique
+
+ajouter champ
+
+aucun partitionnement
+
+Options avancées :
+Ligne d'en tête à ignorer : 1 (la première ligne du fichier est 0)
+
+Créer une table
+
+
+2ème méthode : 
+
+poin_de_vente
+
+Modifier sous forme de texte
+Options avancées : 
+Ligne d'en tête à ignorer : 1 (la première ligne du fichier est 0)
+
+
+
+
+
